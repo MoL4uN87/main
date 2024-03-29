@@ -1541,3 +1541,6 @@ print(f'Семейность (кол-во 2-5-8):                    {matrica.co
 print(f'Стабильность, Привычки (кол-во 3-6-9):        {matrica.count(3) + matrica.count(6) + matrica.count(9)}')
 print(f'Духовность (кол-во 1-5-9):                    {matrica.count(1) + matrica.count(5) + matrica.count(9)}')
 print(f'Темперамент(Секс) (кол-во 3-5-7):             {matrica.count(3) + matrica.count(5) + matrica.count(7)}')
+
+print('ПРимер')
+
